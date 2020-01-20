@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Chikitsak</string>
+    <string name="Splash_subtitle">एक देखभाल जो कभी नहीं बुझती</string>
+    <string name="logo">Logo</string>
+    <string name="background">background</string>
+    <string name="retry">Retry</string>
+    <string name="show_Splash">Show Splash</string>
+    <string name="stitle">CHIKITSAK</string>
+    <string name="splash_screen_made_easy">Splash screen made easy</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="show_title">SHOW TITLE</string>
+    <string name="facebook_application_id" translatable="false">498495597424789</string>
+    <string name="left2dash">Call Ambulance</string>
+
+    <string name="TopCard">Find My Requirement</string>
+
+    <string name="rightdash">
+        Chat with Doctor
+    </string>
+
+    <!-- Fragment Strings -->
+    <string name="profile">Profile Fragment</string>
+    <string name="settings">Settings Fragment</string>
+    <string name="myrecords">My Records Fragment</string>
+    <string name="medicalhistory">Medical History Fragment</string>
+    <string name="bloodbank">Blood Bank Near Me Fragment</string>
+    <string name="reminders">Reminders Fragment</string>
+    <string name="faqs">FAQs Fragment</string>
+    <string name="govtschemes">Govt Schemes Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="aadhaar">3113 4005 0108</string>
+</resources>
